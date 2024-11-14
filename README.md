@@ -1,5 +1,8 @@
 # EXP-11 Implementation-of-SVM-For-Spam-Mail-Detection
 
+## NAME: Aadhithya D
+## Reg No.:212222220001
+
 ## AIM:
 To write a program to implement the SVM For Spam Mail Detection.
 
