@@ -1,8 +1,5 @@
 # EXP-11 Implementation-of-SVM-For-Spam-Mail-Detection
 
-## NAME: Aadhithya D
-## Reg No.:212222220001
-
 ## AIM:
 To write a program to implement the SVM For Spam Mail Detection.
 
@@ -24,8 +21,8 @@ To write a program to implement the SVM For Spam Mail Detection.
 ```PYTHON
 /*
 Program to implement the SVM For Spam Mail Detection..
-Developed by: RICHARDSON A
-RegisterNumber:  212222233005
+Developed by: AADHITHYA D
+RegisterNumber:  212222220001
 */
 
 
